@@ -1,0 +1,88 @@
+
+
+.contact{
+    background-color: #F7F9FC;
+  }
+  .contact__container{
+    padding: 100px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .contact__box{
+     width: 400px;
+  }
+  .contact__title{
+      color:#211F54;
+      font-size: 36px;
+      padding-bottom: 10px;
+  }
+  .contact__text{
+      color:  #6E7191;
+      padding-bottom: 20px;
+      padding-top: 10px;
+  }
+  .contact__img{
+      width: 220px;
+      height: 60px;
+      margin-bottom: 10px;
+  }
+  .contact__title__name{
+      color: #211F54;
+      padding-top: 50px;
+  }
+  .contact__link{
+      text-decoration: none;
+      color: #211F54;
+      font-size: 16px;
+      padding: 15px 15px;
+      border-radius: 10px;
+      box-shadow: 0px 1px 2px 0px;
+  }
+
+  .contact__form{
+    width: 500px;
+    height: 500px;
+    background-color: #fff;
+    padding: 30px;
+    border: 1px solid #dfdede;
+    border-radius: 10px;
+  }
+  .form{
+    display: flex;
+    /* width: 500px; */
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .form__box{
+    padding: 10px 0px;
+  }
+  .contact__formtext{
+    color:  #211F54;
+  }
+  .contact__input{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid #bbb;
+  }
+  .contact__input1{
+    width: 440px;
+    height: 130px;
+    border-radius: 10px;
+    border: 1px solid #bbb;
+  }
+  .contact__btn{
+    padding: 10px 15px;
+    background-color: #fff;
+    border: 1px solid #bbb;
+    border-radius: 10px;
+    color: #211F54;
+  }
+  .contact__btn:hover{
+    background-color: blue;
+    color: #fff;
+  }
+  .contact__link__name{
+    text-decoration: none;
+  }

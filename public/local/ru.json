@@ -1,0 +1,72 @@
+{
+    "navbar":{
+        "home":"Дом",
+        "about":"О",
+        "servic":"Услуги",
+        "artic":"Статьи",
+        "contact":"Контакт",
+        "cart":"Корзина (0)",
+        "get":"Получить бесплатное предложение"
+    },
+    "header":{
+        "qulality":"Качественная уборка вашего дома",
+        "condimen":"Condimentum mauris sit cursus amet id non neque pharetra nulla ornare sed facilisis senectus dapibus nibh ultrices eget suscipit aliquet et nulla magna lacus penatibus.",
+        "free":"Получить бесплатное предложение"
+    },
+    "servic":{
+        "our":"Наши услуги",
+        "explore":"Ознакомьтесь с услугами",
+        "hous":"уборка дома",
+        "lorem":"Обслуживание клиентов очень важно, потому что обслуживание клиентов всегда легко.",
+        "offic":"Уборка офиса",
+        "induc":"Промышленная уборка"
+    },
+    "main":{
+        "covid":"Санитарная обработка Covid-19",
+        "follow":"Мы соблюдаем правила, чтобы защитить вас от вируса COVID-19",
+        "lobor":"Lobortis mattis odio leo eget mauris встретил aliquet semper molestie sollicitudin congue Massa mauris lectus." 
+    },
+    "artic":{
+        "artic":"Статьи и ресурсы",
+        "brow":"Просмотр статей",
+        "best":"8 лучших пылесосов, которые уберут любой беспорядок в вашем доме в 2022 году",
+        "lorem":"Lorem ipsum dolor sit amet conse ctetur adip iscing elit justo quis odio sit sit ac port titor sit males",
+        "jan":"28 января 2022 г.",
+        "how":"Как правильно дезинфицировать телефон и другую электронику",
+        "feb":"1 февраля 2022 г."
+    },
+    "contact":{
+        "contact":"Связаться с нами",
+        "in":"In dignissim euismod pretium amet enim a eu nam ut urna accumsan pellentesque lacus duis pharetra eutortor.",
+        "not":"Еще не убеждены?",
+        "massa":"Massa bibendum consectetur maurisid gravida purus, dolor dui amet morbi non nunc urna purus diam.",
+        "brow":"Просмотрите наши пакеты",
+        "full":"Полное имя",
+        "phon":"Номер телефона",
+        "adres":"Адрес",
+        "email":"Электронная почта",
+        "req":"Запрошенная услуга",
+        "day":"День службы",
+        "add":"Добавить заметку"
+    },
+    "footer":{
+        "qual":"Качественная уборка вашего дома",
+        "lorem":"Lorem ipsum dolor sit amet cteturdo adipiscing elit, sed do eiusmo",
+        "contact":"Связаться с нами",
+        "los":"1827 Nickel Road, Лос-Анджелес, Калифорния, 90017, США",
+        "576":"(414) 567 - 2109",
+        "cle":"contact@cleaning.com",
+        "hour":"Часы",
+        "monday":"С понедельника по пятницу",
+        "pm":"6:00 AM - 9:00 PM",
+        "satur":"Суббота Воскресенье",
+        "pmm":"8:00 AM - 8:00 PM",
+        "get":"Получите бесплатную оценку",
+        "req":"Запросить бесплатное предложение",
+        "cop":"Copyright © Клининг Х | Разработано",
+        "brix":"Шаблоны БРИКС",
+        "pow":" Питаться от",
+        "web":"веб-поток",
+        "lic":"Лицензии"
+    }
+}

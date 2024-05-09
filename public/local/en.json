@@ -1,0 +1,72 @@
+{
+    "navbar":{
+        "home":"Home",
+        "about":"About",
+        "servic":"Services",
+        "artic":"Articles",
+        "contact":"Contact",
+        "cart":"Cart (0)",
+        "get":"Get a free quote"
+    },
+    "header":{
+        "qulality":"Quality cleaning for your home",
+        "condimen":"Condimentum mauris sit cursus amet id non neque pharetra nulla ornare sed facilisis senectus dapibus nibh ultrices eget suscipit aliquet et nulla magna lacus penatibus.",
+        "free":"Get a free quote"
+    },
+    "servic":{
+        "our":"Our Services",
+        "explore":"Explore services",
+        "hous":"House cleaning",
+        "lorem":"Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est.",
+        "offic":"Office cleaning",
+        "induc":"Industrial cleaning"
+    },
+    "main":{
+        "covid":"Covid-19 sanitization",
+        "follow":"We follow guidelines to keep you safe from the COVID-19 virus",
+        "lobor":"Lobortis mattis odio leo eget mauris met aliquet semper molestie sollicitudin congue massa mauris lectus." 
+    },
+    "artic":{
+        "artic":"Articles & resources",
+        "brow":"Browse articles",
+        "best":"8 best vacuum cleaners to clean any mess for your home in 2022",
+        "lorem":"Lorem ipsum dolor sit amet conse ctetur adip iscing elit justo quis odio sit sit ac port titor sit males",
+        "jan":"Jan 28, 2022",
+        "how":"How to properly disinfect your phone and other electronics",
+        "feb":"Feb 1, 2022"
+    },
+    "contact":{
+        "contact":"Contact Us",
+        "in":"In dignissim euismod pretium amet enim a eu nam ut urna accumsan pellentesque lacus duis pharetra eutortor.",
+        "not":"Not convinced yet?",
+        "massa":"Massa bibendum consectetur maurisid gravida purus, dolor dui amet morbi non nunc urna purus diam.",
+        "brow":"Browse our packages",
+        "full":"Full name",
+        "phon":"Phone namber",
+        "adres":"Address",
+        "email":"Email",
+        "req":"Requested service",
+        "day":"Day of service",
+        "add":"Add a note"
+    },
+    "footer":{
+        "qual":"Quality cleaning for your home",
+        "lorem":"Lorem ipsum dolor sit amet cteturdo adipiscing elit, sed do eiusmo",
+        "contact":"Contact us",
+        "los":"1827 Nickel Road, Los Angeles, CA, 90017, United States",
+        "576":"(414) 567 - 2109",
+        "cle":"contact@cleaning.com",
+        "hour":"Hours",
+        "monday":"Monday to Friday",
+        "pm":"6:00 AM - 9:00 PM",
+        "satur":"Saturday & Sunday",
+        "pmm":"8:00 AM - 8:00 PM",
+        "get":"Get a free estimate",
+        "req":"Request a free quote",
+        "cop":"Copyright © Cleaning X | Designed by",
+        "brix":"BRIX Templates",
+        "pow":" Powered by",
+        "web":"Webflow",
+        "lic":"Licenses"
+    }
+}

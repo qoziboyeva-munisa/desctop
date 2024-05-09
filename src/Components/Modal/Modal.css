@@ -1,0 +1,32 @@
+
+
+.modal{
+  padding: 30px;
+}
+.modal__link{
+  text-decoration: none;
+    
+}
+.hamicon{
+  width: 30px;
+  height: 30px;
+}
+.modal__list{
+  
+}
+.modal__item{
+  list-style: none;
+  padding: 10px 0px;
+}
+.modal__link{
+   text-decoration: none;
+   color: rgb(4, 4, 73);
+   font-size: 20px; 
+}
+.select{
+  padding: 10px;
+
+}
+.option{
+  font-size: 14px;
+}

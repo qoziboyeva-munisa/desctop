@@ -1,0 +1,72 @@
+{
+    "navbar":{
+        "home":"Uy",
+        "about":"Haqida",
+        "servic":"Xizmatlar",
+        "artic":"Maqolalar",
+        "contact":"Aloqa",
+        "cart":"Arava",
+        "get":"Bepul taklif oling"
+    },
+    "header":{
+        "qulality":"Uyingiz uchun sifatli tozalash",
+        "condimen":"Condimentum mauris sit cursus amet id non neque pharetra nulla ornare sed facilisis senectus dapibus nibh ultrices eget suscipit aliquet and nulla magna lacus penatibus.",
+        "free":"Bepul taklif oling"
+    },
+    "servic":{
+        "our":"Bizning xizmatlarimiz",
+        "explore":"Xizmatlarni o'rganing",
+        "hous":"Uyni tozalash",
+        "lorem":"Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est.",
+        "offic":"Ofisni tozalash",
+        "induc":"Sanoat tozalash"
+    },
+    "main":{
+        "covid":"Covid-19 sanitarizatsiyasi",
+        "follow":"Sizni COVID-19 virusidan himoya qilish uchun ko'rsatmalarga amal qilamiz",
+        "lobor":"Lobortis mattis odio leo eget mauris met aliquet semper molestie sollicitudin congue massa mauris lectus." 
+    },
+    "artic":{
+        "artic":"Maqolalar va manbalar",
+        "brow":"Maqolalarni ko'rib chiqish",
+        "best":"2022 yilda uyingizdagi har qanday iflos narsalarni tozalash uchun 8 ta eng yaxshi changyutgich",
+        "lorem":"Lorem ipsum dolor sit amet conse ctetur adip iscing elit justo quis odio sit sit ac port titor sit males",
+        "jan":"2022 yil 28 yanvar",
+        "how":"Telefoningizni va boshqa elektronikani qanday qilib to'g'ri dezinfeksiya qilish kerak",
+        "feb":"2022 yil 1-fevral"
+    },
+    "contact":{
+        "contact":"Biz bilan bog'lanish",
+        "in":"In dignissim euismod pretium amet enim a eu nam ut urna accumsan pellentesque lacus duis pharetra eutortor.",
+        "not":"Hali ishonmadingizmi?",
+        "massa":"Massa bibendum consectetur maurisid gravida purus, dolor dui amet morbi non nunc urna purus diam.",
+        "brow":"Bizning paketlarimizni ko'rib chiqing",
+        "full":"To'liq ism",
+        "phon":"Telefon raqami",
+        "adres":"Manzil",
+        "email":"Elektron pochta",
+        "req":"So'ralgan xizmat",
+        "day":"Xizmat kuni",
+        "add":"Eslatma qo'shing"
+    },
+    "footer":{
+        "qual":"Uyingiz uchun sifatli tozalash",
+        "lorem":"Lorem ipsum dolor sit amet cteturdo adipiscing elit, sed do eiusmo",
+        "contact":"Biz bilan bog'lanish",
+        "los":"1827 Nikel Road, Los-Anjeles, CA, 90017, Amerika Qo'shma Shtatlari",
+        "576":"(414) 567 - 2109",
+        "cle":"contact@cleaning.com",
+        "hour":"Soat",
+        "monday":"Dushanbadan jumagacha",
+        "pm":"6:00 AM - 9:00 PM",
+        "satur":"Shanba va yakshanba",
+        "pmm":"8:00 AM - 8:00 PM",
+        "get":"Bepul baho oling",
+        "req":"Bepul taklifni so'rang",
+        "cop":"Mualliflik huquqi © Cleaning X | tomonidan ishlab chiqilgan",
+        "brix":"BRIX shablonlar",
+        "pow":" Tomonidan qo'llab-quvvatlanadi",
+        "web":"Veb oqimi",
+        "lic":"Litsenziyalar"
+    }
+}

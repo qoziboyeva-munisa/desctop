@@ -1,0 +1,37 @@
+
+
+.header__container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header__box{
+    width: 500px;
+}
+.header__title{
+    color: rgb(34, 20, 86);
+    width: 350px;
+    font-size: 40px;
+}
+.header__wrapper{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__text{
+    width: 380px;
+    font-size: 14px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+   line-height: 20px;
+   color:#526475;
+}
+.header__tel{
+    width: 150px;
+    height: 40px;
+}
+.header__img{
+    width: 500px;
+    height: 500px;
+}

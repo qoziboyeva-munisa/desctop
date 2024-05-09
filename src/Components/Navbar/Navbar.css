@@ -1,0 +1,50 @@
+
+
+.navbar__container{
+    width: 1000px;
+    height: 80px;
+    align-items: center;
+}
+.navbar__list{
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar__item{
+    list-style: none;
+}
+.navbar__img{
+    width: 150px;
+    height: 40px;
+}
+.navbar__link{
+  text-decoration: none;
+  font-size: 14px;
+  color: rgb(10, 0, 47);
+}
+.link__name{
+    text-decoration: none;
+    padding: 15px 15px;
+    border: 1px solid #bbb;
+    background-color: #fff;
+    border-radius:10px;
+    font-size: 14px;
+    color: rgb(10, 0, 47);
+  }
+  .link__name:hover{
+    background-color: blue;
+    color: #fff;
+  }
+  .navbar__linkimg{
+    text-decoration: none;
+  }
+  .select{
+    border: 0;
+    font-size: 14px;
+  }
+  .btn{
+    display: none;
+    border: 0px;
+    background-color: #fff;
+  }
