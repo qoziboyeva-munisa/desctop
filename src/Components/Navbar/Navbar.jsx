@@ -51,12 +51,11 @@ const ChangeLanguage=(event)=>{
                 <li className="navbar__item">
                 <a href="#" className="navbar__link">{t("navbar.cart")} </a>
                 </li>
-              <button className='btn'>
+              <div className='btn'>
               < TemporaryDrawer/>
-              </button>
+              </div>
                   
 
-                  {/* <BasicModal/> */}
                 <select className='select' onChange={ChangeLanguage} value={languages}>
                   <option  value="en">en</option>
                   <option value="uz">uz</option>
